@@ -1,0 +1,16 @@
+.navbar .nav-link {
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.navbar .nav-link:hover {
+  transform: scale(1.1);
+  color: #ffc107 !important; /* Optional: Yellow highlight */
+}
+
+.zoom-on-hover {
+  transition: transform 0.3s ease-in-out;
+}
+
+.zoom-on-hover:hover {
+  transform: scale(1.05);
+}

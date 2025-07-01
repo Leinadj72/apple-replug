@@ -1,2 +1,51 @@
 User-agent: *
 Disallow: 
+
+🔧 What would you like to build next?
+
+Here are the key options based on your flow:
+1. 🔁 Swap Deals Page
+
+    Users see available iPhone swap options (e.g. swap iPhone X + GHS 1500 for iPhone 11).
+
+    Can click to request a swap (no login needed).
+
+    Request gets saved for admin review.
+
+2. 🔧 Repair Request System
+
+    User fills a form: device type, issue description, contact info.
+
+    Admin sees request and replies/approves.
+
+    System assigns a repair tag and pickup/delivery date.
+
+    Admin can later mark it as fixed.
+
+3. 🛒 Order / Checkout Page
+
+    Users select products → choose delivery/pickup → place order.
+
+    Order is saved to DB; admin gets notified.
+
+4. 🧑‍💻 Admin Panel
+
+    Add/edit/delete products
+
+    View orders, repair requests, swap requests
+
+    Upload images
+
+💬 Which one would you like to do now?
+
+Type:
+
+    swap → to start Swap Deals
+
+    repair → for Repair Flow
+
+    order → for Cart & Checkout
+
+    admin → for Admin Dashboard
+
+Let’s build it module by module.
